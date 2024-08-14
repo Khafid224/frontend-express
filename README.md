@@ -26,3 +26,7 @@ B. Halaman Dashboard
 1. view dashboard
 ![image](https://github.com/user-attachments/assets/f19e15bb-4148-4a6e-83f0-8eba22b849ad)
 
+2. menampilkan user
+![image](https://github.com/user-attachments/assets/3c4e90d7-e6c8-4960-8e6b-944e0ddecdc8)
+
+
