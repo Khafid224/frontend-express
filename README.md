@@ -29,4 +29,9 @@ B. Halaman Dashboard
 2. menampilkan user
 ![image](https://github.com/user-attachments/assets/3c4e90d7-e6c8-4960-8e6b-944e0ddecdc8)
 
+C. Halaman Users
+-
+1. view users
+![image](https://github.com/user-attachments/assets/4eee41b1-4794-431e-a989-4d9075e69c8d)
+
 
