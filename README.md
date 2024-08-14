@@ -9,3 +9,9 @@ A. Authentication
 3. Login
 ![image](https://github.com/user-attachments/assets/e8b5d6e4-039e-4ccf-831b-b6847942f319)
 
+4. membuat proses register
+![image](https://github.com/user-attachments/assets/ee992040-34af-492b-ac2d-0982aef38824)
+
+5. jika data tidak diisi
+![image](https://github.com/user-attachments/assets/c129007c-d5a7-47ac-a5c5-912305226608)
+
