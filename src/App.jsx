@@ -10,7 +10,7 @@ export default function App() {
     <div>
     <nav className="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
       <div className="container">
-        <Link to="/" className="navbar-brand">Khafid224</Link>
+        <Link to="http://localhost:5173/" className="navbar-brand">HOME</Link>
         <button
           className="navbar-toggler"
           type="button"
