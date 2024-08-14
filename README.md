@@ -15,3 +15,9 @@ A. Authentication
 5. jika data tidak diisi
 ![image](https://github.com/user-attachments/assets/c129007c-d5a7-47ac-a5c5-912305226608)
 
+6. membuat proses login
+![image](https://github.com/user-attachments/assets/5d9ff9c9-a5ea-4164-a1a5-bde2c7d3bf5f)
+
+7. validasi data
+![image](https://github.com/user-attachments/assets/fb2a3bc4-9af0-4273-9167-88b9d9a59790)
+
