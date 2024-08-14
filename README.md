@@ -21,3 +21,8 @@ A. Authentication
 7. validasi data
 ![image](https://github.com/user-attachments/assets/fb2a3bc4-9af0-4273-9167-88b9d9a59790)
 
+B. Halaman Dashboard
+-
+1. view dashboard
+![image](https://github.com/user-attachments/assets/f19e15bb-4148-4a6e-83f0-8eba22b849ad)
+
