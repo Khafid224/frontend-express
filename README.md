@@ -34,4 +34,10 @@ C. Halaman Users
 1. view users
 ![image](https://github.com/user-attachments/assets/4eee41b1-4794-431e-a989-4d9075e69c8d)
 
+2. Menampilkan List Data Users
+![image](https://github.com/user-attachments/assets/74ed3bab-2664-4289-bfef-de09445baa0f)
 
+3. users create
+![image](https://github.com/user-attachments/assets/96ca57ec-d94e-48ec-8f2d-1cb9675671a2)
+
+4. users edit
